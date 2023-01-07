@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Correct Bracket Pairs</string>
+    <string name="description">
+The count of correct bracket expressions its Catalan\'s number.
+Catalan\'s number(n) = (2n)\! \/ (n\! * (n + 1)\!), where n = count of bracket pairs
+    </string>
+</resources>
